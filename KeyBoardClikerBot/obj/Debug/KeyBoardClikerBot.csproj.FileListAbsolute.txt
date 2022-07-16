@@ -1,0 +1,11 @@
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\bin\Debug\KeyBoardClikerBot.exe.config
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\bin\Debug\KeyBoardClikerBot.exe
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\bin\Debug\KeyBoardClikerBot.pdb
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.csproj.AssemblyReference.cache
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.csproj.SuggestedBindingRedirects.cache
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.Form1.resources
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.Properties.Resources.resources
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.csproj.GenerateResource.cache
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.csproj.CoreCompileInputs.cache
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.exe
+D:\C# Code Sources\KeyBoardClikerBot\KeyBoardClikerBot\obj\Debug\KeyBoardClikerBot.pdb
